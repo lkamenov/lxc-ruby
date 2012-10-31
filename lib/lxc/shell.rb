@@ -25,7 +25,6 @@ module LXC
       'lxc-setcap',
       'lxc-setuid',
       'lxc-start',
-      'lxc-start-ephemeral',
       'lxc-stop',
       'lxc-unfreeze',
       'lxc-unshare',
